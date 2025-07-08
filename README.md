@@ -1,6 +1,8 @@
 # Margrete-WARE
 Margreteで作成した譜面を割譜面（幅1マス）に変換するプラグイン
 
+![Preview](.\img\preview.png)
+
 ## ダウンロード
 [最新のリリース](https://github.com/125iinog/Margrete-WARE/releases/latest)
 
